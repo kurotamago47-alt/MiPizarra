@@ -20,7 +20,7 @@ compileOptions {
 }
 
 kotlinOptions {
-    jvmTarget = "17"
+    jvmTarget = "1.8"
 }
     buildFeatures { compose = true }
 }
